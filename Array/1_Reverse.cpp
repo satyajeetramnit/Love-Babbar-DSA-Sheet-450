@@ -1,6 +1,9 @@
 // ramnitcode27
 // Write a program to reverse an array or string
 
+// Time Complexity : O(n)
+// Auxiliary Space : O(1)
+
 #include <iostream>
 #include <string>
 #include <vector>
